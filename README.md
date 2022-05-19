@@ -2,35 +2,35 @@ Hello,
 
 I'm Lucas.
 
-I'm a developer with a little bit of knowledge in several of the major fields of information technology. Currently I'm practicing to become proficient in a very particular style of full-stack development. One that combines the practical front-end of react, the efficiency of webassembly/rust, the graphical beauty of threejs and the organization of webpack + docker.
 
- - Understand a lot about rust.
- 
- - Understand some things about the cpu and techniques for processing optimization.
+Software Engineer
 
- - Very comfortable with python.
- 
- - Getting used with developing with nodejs.
- 
- - Some starter understanding of graphics and rendering.
- 
- - Built webservers packaged with docker using rust.
- 
- - Built webservers packaged with docker using nodejs + webassembly.
- 
- - Very little understanding of GraphQl (but it's in my list of things to learn next).
- 
- - Built a rest backend that connects to a remote mysql server.
- 
- - Built a debian desktop application using gtk.
- 
- - Built a small multi-threaded app that renders a mandelbrot fractal.
- 
- - I have coded for pic microcontrollers before using c.
- 
- 
+Languages
+-Portuguese: Native
+-English: Fluent
+-Japanese: Basic
 
-I don't have a very good perspective for design and creating good-looking apps. But I know how to make good-looking, readable and efficient code.
+Check my website: https://on0n0k1.github.io/
+Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
+
+ - Web3 Rust Developer and Teacher;
+ - Understand cryptography concepts and application;
+ - Exceptional level Near Certified Developer certificate: https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
+ - I teach how to develop Dapps for the NEAR blockchain written in Rust;
+ - I use linux for over 5 years;
+ - I know how to optimize webassembly file sizes. Wasm functions that are 1kB of size;
+ - Docker experience;
+ - OOP and functional programming;
+ - Nodejs, typescript, rust, c and Python;
+ - Can increase the speed of python and javascript through rust dynamic libraries (PyO3 and wasm);
+ - Asynchronous and parallel computing;
+ - Built javascript libraries with webassembly;
+ - Some cloud development knowledge for aws;
+ - Built GUI for linux gnome using gtk;
+ - I know some basic gpu programming;
+ - MySQL and GraphQL;
+ - 3D website development with Threejs;
+ - I like studying history, different cultures and arts as well;
 
 
 
