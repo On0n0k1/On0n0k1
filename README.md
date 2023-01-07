@@ -13,24 +13,157 @@ Languages
 Check my website: https://on0n0k1.github.io/
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
 
- - Web3 Rust Developer and Teacher;
- - Understand cryptography concepts and application;
+
+<details open>
+<summary>Main Languages</summary>
+
+ - Rust;
+ - Javascript/Typescript;
+ - Python;
+ - C;
+
+</details>
+
+<details open>
+<summary>Backend</summary>
+
+ - Node.js;
+ - Express;
+ - tRPC(ORM);
+ - Rest;
+ - GraphQL;
+ - Event Driven Services;
+ - Rust: Warp, Rocket, Actix, Tower;
+
+</details>
+
+
+
+<details open>
+<summary>Front End</summary>
+
+ - React;
+ - HTML, CSS, Javascript;
+ - Typescript;
+ - Webpack;
+ - Nodejs;
+ - Svelte;
+ - Prototyping(Figma);
+ - Threejs;
+ - Webpack;
+ - Vite;
+
+</details>
+
+
+<details open>
+<summary>Full Stack</summary>
+
+ - NextJs;
+
+</details>
+
+<details open>
+<summary>CI CD</summary>
+
+ - Github Actions;
+ - Docker;
+ - Kubernetes;
+
+</details>
+ 
+<details open>
+<summary>Web-3</summary>
+
+ - Ethereum: Solidity, Web3.js, Truffle, Ganache;
+ - Near: Near-api-js, Near-SDK-RS;
+
+</details>
+
+<details open>
+<summary>Databases</summary>
+
+- PostgreSQL;
+- MySQL;
+- SQL;
+- Redis;
+- ORMs: Prisma (Javascript), Diesel(Rust);
+
+</details>
+
+<details open>
+<summary>Metodologies</summary>
+
+ - Knowledge of design patterns;
+ - Test Driven Development(TDD);
+ - Domain Driven Development(DDD);
+ - MVC architecture;
+
+</details>
+
+
+<details open>
+<summary>WebAssembly</summary>
+
+ - I know how to compile and run WebAssembly modules in Node.js and Javascript instances;
+ - Also can use tools to optimize existing WebAssembly modules for maximum efficiency;
+
+</details>
+
+<details open>
+<summary>Rust</summary>
+
+ - Warp;
+ - Rocket;
+ - Diesel;
+ - Actix;
+ - Tower;
+ - Understand how the compiler optimizes the source code, with SIMD, AVX;
+ - Implement Concurrent, multi-threaded runtimes with Tokio;
+ - Compile WebAssembly libraries for Javascript runtimes;
+ - Compile Python dynamic libraries with PyO3;
+ - Creating Macros for metaprogramming;
+ - Compiling smart contracts for the NEAR protocol;
+ - Implementing GUI with GTK;
+ - Rendering a screen with Piston;
+ - Implementing Serialization with Serde;
  - Exceptional level Near Certified Developer certificate: https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
- - I teach how to develop Dapps for the NEAR blockchain written in Rust;
- - I use linux for over 5 years;
- - I know how to optimize webassembly file sizes. Wasm functions that are 1kB of size;
- - Docker experience;
- - OOP and functional programming;
- - Nodejs, typescript, rust, c and Python;
- - Can increase the speed of python and javascript through rust dynamic libraries (PyO3 and wasm);
- - Asynchronous and parallel computing;
- - Built javascript libraries with webassembly;
- - Some cloud development knowledge for aws;
- - Built GUI for linux gnome using gtk;
- - I know some basic gpu programming;
- - MySQL and GraphQL;
- - 3D website development with Threejs;
- - I like studying history, different cultures and arts as well;
+
+</details>
+
+<details open>
+<summary>AWS</summary>
+
+ - EC2;
+ - S3;
+ - RDS;
+ - IAM;
+
+</details>
+
+
+<details open>
+<summary>Cryptography</summary>
+
+ - Understanding of authentication algorithms and cryptography standards;
+
+</details>
+
+
+<details open>
+<summary>Electronics</summary>
+
+ - Electronics Technician with experience compiling code for embedded devices;
+
+</details>
+
+
+<details open>
+<summary>Tutor</summary>
+
+ - Experience teaching software developers on how to code in Rust and how to create smart contracts in NEAR protocol;
+
+</details>
 
 
 
