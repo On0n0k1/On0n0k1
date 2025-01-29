@@ -33,7 +33,7 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
  - Rest;
  - GraphQL;
  - Event Driven Services;
- - Rust: Warp, Rocket, Actix, Tower;
+ - Rust: Warp, Rocket, Actix, Tower, Shuttle;
 
 </details>
 
@@ -69,6 +69,7 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
  - Github Actions;
  - Docker;
  - Kubernetes;
+ - Terraform;
 
 </details>
  
@@ -87,7 +88,7 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
 - MySQL;
 - SQL;
 - Redis;
-- ORMs: Prisma (Javascript), Diesel(Rust);
+- ORMs: Prisma (Javascript), Diesel(Rust), SeaORM(Rust);
 
 </details>
 
@@ -138,6 +139,11 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
  - S3;
  - RDS;
  - IAM;
+ - RedShift;
+ - EventBridge;
+ - Lambda;
+ - PostgreSQL;
+ - Terraform;
 
 </details>
 
@@ -146,6 +152,10 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
 <summary>Cryptography</summary>
 
  - Understanding of authentication algorithms and cryptography standards;
+ - RSA, ECDSA, etc;
+ - Homomorphic Encryption;
+ - Zero Knowledge Proofs;
+ - KEM;
 
 </details>
 
@@ -153,7 +163,7 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
 <details open>
 <summary>Electronics</summary>
 
- - Electronics Technician with experience compiling code for embedded devices;
+ - Electronics Technician with experience compiling code for embedded devices and using them in practice;
 
 </details>
 
@@ -166,6 +176,13 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
 </details>
 
 
+<details open>
+<summary>Game Dev</summary>
+
+ - Experience developing 3D experiences in Godot for the web or specific architectures;
+ - Blender for 3D modelling, animations, UV unwrapping, texturing, shading, etc;
+
+</details>
 
 
 
