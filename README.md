@@ -10,7 +10,6 @@ Languages
 -English: Fluent
 -Japanese: Basic
 
-Check my website: https://on0n0k1.github.io/
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
 
 
