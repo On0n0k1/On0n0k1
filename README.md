@@ -2,6 +2,9 @@ Hello,
 
 I'm Lucas.
 
+I am a Software Engineer who specializes in Backend systems in the cloud and the web. I developed high performance pipeline Systems in Deckers. Integrated complex cryptographic systems, backend services and APIs in Privid. Developed Smart Contracts and trading systems in the blockchain in Near Foundation.
+
+Knowledge is power. Because of that, I practice every day. And work to share my knowledge with others with my online courses and training.
 
 Software Engineer
 
