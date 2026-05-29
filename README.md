@@ -9,8 +9,11 @@ Knowledge is power. Because of that, I practice every day. And work to share my 
 Software Engineer
 
 Languages
+
 -Portuguese: Native
+
 -English: Fluent
+
 -Japanese: Basic
 
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
