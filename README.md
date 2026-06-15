@@ -16,154 +16,166 @@ Languages
 
 -Japanese: Basic
 
+My Website: https://on0n0k1.github.io/
+
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
 
+Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT">https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
 
-<details open>
-<summary>Main Languages</summary>
+<details>
+<summary>Programming Languages</summary>
 
- - Rust;
- - Javascript/Typescript;
- - Python;
- - C;
+- Rust
+- Python
+- Typescript
+- NodeJs
+- C
+- Java
 
 </details>
 
-<details open>
+<details>
+<summary>AWS</summary>
+
+- SQS
+- Lambda
+- Aurora RDS
+- DynamoDB
+- S3
+- Redshift
+- IAM
+- DataDog
+- CloudWatch
+- CloudFront
+- VPC
+- EC2
+- Secrets Manager
+- KMS
+- SNS
+- EventBridge
+- EKS
+
+</details>
+
+<details>
 <summary>Backend</summary>
 
- - Node.js;
- - Express;
- - tRPC(ORM);
- - Rest;
- - GraphQL;
- - Event Driven Services;
- - Rust: Warp, Rocket, Actix, Tower, Shuttle;
+- Docker
+- Kubernetes
+- Event Driven Architecture
+- Web Sockets
+- Distributed Systems
+- REST APIs
+- TDD
+- Microservice Architecture
+- Asynchronous Programming
+- Parallel Programming
+- gRPC
 
 </details>
 
+<details>
+<summary>Cryptography</summary>
 
-
-<details open>
-<summary>Front End</summary>
-
- - React;
- - HTML, CSS, Javascript;
- - Typescript;
- - Webpack;
- - Nodejs;
- - Svelte;
- - Prototyping(Figma);
- - Threejs;
- - Webpack;
- - Vite;
-
-</details>
-
-
-<details open>
-<summary>Full Stack</summary>
-
- - NextJs;
+- Public Key Cryptography
+- Symmetric Encryption
+- RSA
+- PGP
+- AES
+- ECDH
+- Homomorphic Encryption
+- FHE
+- TFHE
+- ZK-SNARKs
+- ZK-STARKs
 
 </details>
 
-<details open>
-<summary>CI CD</summary>
+<details>
+<summary>Frameworks</summary>
 
- - Github Actions;
- - Docker;
- - Kubernetes;
- - Terraform;
-
-</details>
- 
-<details open>
-<summary>Web-3</summary>
-
- - Ethereum: Solidity, Web3.js, Truffle, Ganache;
- - Near: Near-api-js, Near-SDK-RS;
+- Tokio
+- Rocket-rs
+- Axum
+- Actix
+- Node.js
 
 </details>
 
-<details open>
+<details>
+<summary>Frontend</summary>
+
+- React
+- Yew-rs
+- HTML
+- CSS
+- Javascript
+- Tailwind
+- Vite
+- Webpack
+- WebAssembly
+
+</details>
+
+<details>
+<summary>Developer Tools</summary>
+
+- Git
+- GitLab
+- GitHub
+- Trunk
+- Cargo
+- Jira
+- Confluence
+
+</details>
+
+<details>
+<summary>CI/CD</summary>
+
+- GitHub Actions
+- GitLab CI/CD
+- Terraform
+- Docker
+- Kubernetes
+
+</details>
+
+<details>
 <summary>Databases</summary>
 
-- PostgreSQL;
-- MySQL;
-- SQL;
-- Redis;
-- ORMs: Prisma (Javascript), Diesel(Rust), SeaORM(Rust);
+- PostgreSQL
+- MySQL
+- Relational Database Design
+- MongoDB
+- Redis
 
 </details>
 
-<details open>
-<summary>Metodologies</summary>
+<details>
+<summary>Messaging & Distributed Systems</summary>
 
- - Knowledge of design patterns;
- - Test Driven Development(TDD);
- - Domain Driven Development(DDD);
- - MVC architecture;
+- Kafka
+- Redis Streams
 
 </details>
 
+<details>
+<summary>Observability</summary>
+
+- Prometheus
+- Grafana
+- Metrics
+- Logging
+- Tracing
+
+</details>
 
 <details open>
 <summary>WebAssembly</summary>
 
- - I know how to compile and run WebAssembly modules in Node.js and Javascript instances;
- - Also can use tools to optimize existing WebAssembly modules for maximum efficiency;
-
-</details>
-
-<details open>
-<summary>Rust</summary>
-
- - Warp;
- - Rocket;
- - Diesel;
- - Actix;
- - Tower;
- - Understand how the compiler optimizes the source code, with SIMD, AVX;
- - Implement Concurrent, multi-threaded runtimes with Tokio;
- - Compile WebAssembly libraries for Javascript runtimes;
- - Compile Python dynamic libraries with PyO3;
- - Creating Macros for metaprogramming;
- - Compiling smart contracts for the NEAR protocol;
- - Implementing GUI with GTK;
- - Rendering a screen with Piston;
- - Implementing Serialization with Serde;
- - Exceptional level Near Certified Developer certificate: https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
-
-</details>
-
-<details open>
-<summary>AWS</summary>
-
- - EC2;
- - S3;
- - RDS;
- - IAM;
- - RedShift;
- - EventBridge;
- - Lambda;
- - PostgreSQL;
- - Terraform;
-
-</details>
-
-
-<details open>
-<summary>Cryptography</summary>
-
- - Understanding of authentication algorithms and cryptography standards;
- - RSA, ECDSA, etc;
- - Homomorphic Encryption;
- - Zero Knowledge Proofs;
- - KEM;
-
-</details>
-
+ - Compile and run WebAssembly modules in Node.js and Javascript instances;
+ - Use tools to optimize existing WebAssembly modules for maximum efficiency;
 
 <details open>
 <summary>Electronics</summary>
@@ -171,15 +183,6 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
  - Electronics Technician with experience compiling code for embedded devices and using them in practice;
 
 </details>
-
-
-<details open>
-<summary>Tutor</summary>
-
- - Experience teaching software developers on how to code in Rust and how to create smart contracts in NEAR protocol;
-
-</details>
-
 
 <details open>
 <summary>Game Dev</summary>
