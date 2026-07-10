@@ -20,7 +20,7 @@ My Website: https://on0n0k1.github.io/
 
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
 
-Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT">https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
+Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
 
 <details>
 <summary>Programming Languages</summary>
