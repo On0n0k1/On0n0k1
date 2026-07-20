@@ -31,6 +31,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 - NodeJs
 - C
 - Java
+- Golang
 
 </details>
 
