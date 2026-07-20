@@ -22,7 +22,7 @@ Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_
 
 Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
 
-<details>
+<details open>
 <summary>Programming Languages</summary>
 
 - Rust
@@ -35,7 +35,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>AWS</summary>
 
 - SQS
@@ -58,7 +58,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Backend</summary>
 
 - Docker
@@ -75,7 +75,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Cryptography</summary>
 
 - Public Key Cryptography
@@ -92,7 +92,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Frameworks</summary>
 
 - Tokio
@@ -103,7 +103,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Frontend</summary>
 
 - React
@@ -118,7 +118,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Developer Tools</summary>
 
 - Git
@@ -131,7 +131,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>CI/CD</summary>
 
 - GitHub Actions
@@ -142,7 +142,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Databases</summary>
 
 - PostgreSQL
@@ -153,7 +153,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Messaging & Distributed Systems</summary>
 
 - Kafka
@@ -161,7 +161,7 @@ Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9w
 
 </details>
 
-<details>
+<details open>
 <summary>Observability</summary>
 
 - Prometheus
