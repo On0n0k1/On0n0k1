@@ -20,6 +20,8 @@ My Website: https://on0n0k1.github.io/
 
 Contributor at Nexus: https://github.com/Abso1ut3Zer0/nexus
 
+Browser extension that allows client-side LLM providers. https://github.com/On0n0k1/aquilifer
+
 Check my tutorial for smart contracts: https://github.com/On0n0k1/Tutorial_NEAR_Rust
 
 Near Certified developer Level "Exceptional": https://airtable.com/shrijLwiPJp9wvhcw/tblz5izwaj0N12wBT
